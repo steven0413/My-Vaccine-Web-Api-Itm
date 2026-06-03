@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  myvaccine_api:
+    build: .
+    container_name: myvaccine_api
+    ports:
+      - "8081:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+      - ConnectionStrings__DefaultConnection=Server=myvaccine_sqlserver,1433;Database=MyVaccineDB;User Id=sa;Password=MyVaccine2026*;TrustServerCertificate=True;
+    depends_on:
+      - sqlserver_dependency
+    networks:
+      - myvaccinewebapi_myvaccine_net
+
+  sqlserver_dependency:
+    image: alpine:latest
+    command: "sleep infinity"
+    networks:
+      - myvaccinewebapi_myvaccine_net
+
+networks:
+  myvaccinewebapi_myvaccine_net:
+    external: true
+    name: myvaccinewebapi_myvaccine_net

@@ -1,0 +1,9 @@
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.csproj.AssemblyReference.cache
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.AssemblyInfoInputs.cache
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.AssemblyInfo.cs
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.csproj.CoreCompileInputs.cache
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\myVaccine\MyVaccineAppSln\MyVaccineWebApi\obj\Debug\net8.0\MyVaccineWebApi.sourcelink.json
